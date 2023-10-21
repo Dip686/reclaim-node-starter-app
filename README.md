@@ -34,6 +34,8 @@ npm start
 
 3. To connect to the server, you can use the Reclaim Wallet mobile app by scanning the provided QR code.
 
+> Note: Please use a CORS specific extensions, incase you face CORS issue while accessing backend URL.
+
 
 ## Node Specific APIs
 For detailed information on how to use the Node specific APIs provided by Reclaim Protocol, refer to the official documentation: [Reclaim Node Quickstart](https://docs.reclaimprotocol.org/node/quickstart).
